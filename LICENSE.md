@@ -3,7 +3,7 @@
 
 **International Fan-Creation License**
 
-Copyright (c) [YEAR] [LICENSOR NAME]
+Copyright (c) 2026 steck0714
 
 > This license is an original fan-creation license. It is not an Open Source Initiative (OSI) approved license, nor an SPDX-listed license, unless separately approved or listed by those organizations.
 
@@ -283,11 +283,11 @@ The abbreviation "FCL" and the identifier "FCL-1.0" are also used by unrelated l
 
 This work is licensed under the Fan Creation License 1.0 (FCL-1.0).
 
-**Original Work:** [ORIGINAL WORK NAME]
+**Original Work:** Kemono Friends Project
 
-**Fan Work:** [WORK NAME]
+**Fan Work:** kemonofriends2 secondseason
 
-**Creator / Licensor:** [LICENSOR NAME]
+**Creator / Licensor:** steck0714
 
 This is an unofficial fan-created derivative work and is not affiliated with, endorsed by, or officially connected to the rights holders of the Original Work.
 
